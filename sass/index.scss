@@ -1,0 +1,37 @@
+#intro{
+	text-align: center;
+	a{
+		text-decoration: none;
+	}
+}
+#gen{
+	display: none;
+}
+#acknowledge a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-bottom: 0.4em;
+}
+#projects a,
+#lived a,
+#education a{
+	width: 100%;
+	text-align: center;
+}
+#projects a{
+	// background-color: #F64747;
+}
+body{
+	h1,h2{
+		font-family: "Open Sans Condensed",cursive;		
+	}
+	a{
+		font-family: "Open Sans Condensed",cursive;
+		font-size: 1.5em;
+		font-weight: 400;
+	}
+	li{
+		font-size: 1.5em;
+	}
+}
